@@ -1,0 +1,1 @@
+Thurgau={Thurgau=38000, Zürich=55000, St. Gallen=65000},Zürich={Thurgau=38000, Zürich=55000, St. Gallen=65000},St. Gallen={Thurgau=38000, Zürich=55000, St. Gallen=65000}
